@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alidehbansiahkarbon" alt="alidehbansiahkarbon" /></a>
 
-- 🔭 I’m currently working on [ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard)
+- 🔭 I’m currently working on [ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) <img src="https://user-images.githubusercontent.com/5601608/225608017-be60c550-0413-49db-b4b6-3664da20e82f.png" alt="ChatGPTWizard" width="100" height="60"/>
 
 - 🌱 I’m currently learning **.Net Core and Azure ecosystem**
 
