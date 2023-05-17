@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Dehbansiahkarbon</h1>
 <h3 align="center">A passionate Delphi/.Net/SQL Server developer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alidehbansiahkarbon" alt="alidehbansiahkarbon" /></a>
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alidehbansiahkarbon&theme=dracula" alt="alidehbansiahkarbon" /></a>
 
 - 🔭 I’m currently working on [ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) <img src="https://user-images.githubusercontent.com/5601608/225608017-be60c550-0413-49db-b4b6-3664da20e82f.png" alt="ChatGPTWizard" width="100" height="60"/>
 
@@ -43,6 +43,6 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/adehbanr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/adehbanr" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/adehbanr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/adehbanr" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alidehbansiahkarbon&" alt="alidehbansiahkarbon" /></p>
