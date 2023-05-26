@@ -3,6 +3,7 @@
 <br>
 
 <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliDehbansiahkarbon&theme=algolia" alt="alidehbansiahkarbon" /></p>
+
 - 🔭 I’m currently working on [ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) <img src="https://user-images.githubusercontent.com/5601608/225608017-be60c550-0413-49db-b4b6-3664da20e82f.png" alt="ChatGPTWizard" width="100" height="60"/>
 
 - 🌱 I’m currently learning **.Net Core and Azure ecosystem**
