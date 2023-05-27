@@ -60,5 +60,9 @@
   <a href="https://github.com/AliDehbansiahkarbon">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliDehbansiahkarbon&theme=algolia" />
   </a>
+  <a href="https://github.com/AliDehbansiahkarbon">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AliDehbansiahkarbon&theme=algolia&hide_border=true&card_width=342" />
+  </a>
+  
 </p>
 </details>
