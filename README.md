@@ -63,6 +63,8 @@
   <a href="https://github.com/AliDehbansiahkarbon">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=AliDehbansiahkarbon&theme=algolia&hide_border=true&card_width=342" />
   </a>
-  
-</p>
+    <a href="https://github.com/AliDehbansiahkarbon">
+    <img src="https://github-profile-trophy.vercel.app/?username=alidehbansiahkarbon&theme=algolia&row=1&column=6" />
+  </a>
+  </p>
 </details>
