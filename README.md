@@ -4,17 +4,20 @@
 
 <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliDehbansiahkarbon&theme=algolia" alt="alidehbansiahkarbon" /></p>
 
-- 🔭 I’m currently working on [ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) <img src="https://user-images.githubusercontent.com/5601608/225608017-be60c550-0413-49db-b4b6-3664da20e82f.png" alt="ChatGPTWizard" width="100" height="60"/>
-
-- 🌱 I’m currently learning **.Net Core and Azure ecosystem**
+- 🔭 My major projects are: [EasyDBMigrator](https://github.com/AliDehbansiahkarbon/EasyDBMigrator) <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/5601608/257011856-964264bf-ed9e-405f-9047-673ac1428ebc.png" alt="EasyDBMigrator" width="60" height="80"/>
+ and    [ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) <img src="https://user-images.githubusercontent.com/5601608/225608017-be60c550-0413-49db-b4b6-3664da20e82f.png" alt="ChatGPTWizard" width="100" height="60"/>
 
 - 👯 I’m looking to collaborate on [x-superobjectWithXML](https://github.com/AliDehbansiahkarbon/x-superobjectWithXML)
 
 - 🤝 I’m looking for help with [ChatGPTPluginForLazarus](https://github.com/AliDehbansiahkarbon/ChatGPTPluginForLazarus)
 
+- 🌱 I’m currently learning **.Net Core and Azure ecosystem**
+
 - 👨‍💻 All of my projects are available at [https://github.com/AliDehbansiahkarbon](https://github.com/AliDehbansiahkarbon)
 
-- 📝 I regularly write(non-English) articles on [https://delphiguru.blog.ir](https://delphiguru.blog.ir)
+- 📝 I regularly write English articles on [https://delphi-guru.blogspot.com](https://delphi-guru.blogspot.com)
+
+- 📝 I regularly write non-English articles on [https://delphiguru.blog.ir](https://delphiguru.blog.ir)
 
 - 💬 Ask me about **Delphi, Pascal, SQL Server**
 
@@ -55,7 +58,8 @@
 
   ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=AliDehbansiahkarbon/ChatGPTWizard,AliDehbansiahkarbon/ChatGPTPluginForLazarus,AliDehbansiahkarbon/AzureStorageClientLibrary,AliDehbansiahkarbon/FuzzyMatch,AliDehbansiahkarbon/Advance-TaskDialog,AliDehbansiahkarbon/ai-toplist-for-Delphi&type=Date)](https://star-history.com/#AliDehbansiahkarbon/ChatGPTWizard&AliDehbansiahkarbon/ChatGPTPluginForLazarus&AliDehbansiahkarbon/AzureStorageClientLibrary&AliDehbansiahkarbon/FuzzyMatch&AliDehbansiahkarbon/Advance-TaskDialog&AliDehbansiahkarbon/ai-toplist-for-Delphi&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=AliDehbansiahkarbon/ChatGPTWizard,AliDehbansiahkarbon/ChatGPTPluginForLazarus,AliDehbansiahkarbon/AzureStorageClientLibrary,AliDehbansiahkarbon/FuzzyMatch,AliDehbansiahkarbon/Advance-TaskDialog,AliDehbansiahkarbon/ai-toplist-for-Delphi,AliDehbansiahkarbon/EasyDBMigrator&type=Date)](https://star-history.com/#AliDehbansiahkarbon/ChatGPTWizard&AliDehbansiahkarbon/ChatGPTPluginForLazarus&AliDehbansiahkarbon/AzureStorageClientLibrary&AliDehbansiahkarbon/FuzzyMatch&AliDehbansiahkarbon/Advance-TaskDialog&AliDehbansiahkarbon/ai-toplist-for-Delphi&AliDehbansiahkarbon/EasyDBMigrator&Date)
+
 
  ## Statistics
 <p align="center">
