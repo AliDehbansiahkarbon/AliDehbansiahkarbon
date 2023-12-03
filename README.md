@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Delphi, Pascal, SQL Server**
 
-- 📫 How to reach me **adehban@gmail.com**
+- 📫 How to reach me:  **adehban@gmail.com** or **https://bold.pro/my/ali-dehban-231203213414**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
