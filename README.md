@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ali Dehbansiahkarbon</h1>
 <h3 align="center">A passionate Delphi/.Net/SQL Server developer</h3>
 <br>
-
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliDehbansiahkarbon&theme=algolia" alt="alidehbansiahkarbon" /></p>
+<p>
+ <img src="https://github.com/AliDehbansiahkarbon/AliDehbansiahkarbon/assets/5601608/367f7a2a-71db-4bf6-bdb3-fd4fda19d2d7" alt="mvp" width="300" height="100"/>
+ <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliDehbansiahkarbon&theme=algolia" alt="alidehbansiahkarbon" />
+ 
+</p>
 
 - 🔭 My major projects are: [EasyDBMigrator](https://github.com/AliDehbansiahkarbon/EasyDBMigrator) <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/5601608/257011856-964264bf-ed9e-405f-9047-673ac1428ebc.png" alt="EasyDBMigrator" width="60" height="80"/>
  and    [ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) <img src="https://user-images.githubusercontent.com/5601608/225608017-be60c550-0413-49db-b4b6-3664da20e82f.png" alt="ChatGPTWizard" width="100" height="60"/>
