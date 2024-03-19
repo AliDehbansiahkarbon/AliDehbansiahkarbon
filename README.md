@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Delphi/.Net/SQL Server developer</h3>
 <br>
 <p>
- <img src="https://github.com/AliDehbansiahkarbon/AliDehbansiahkarbon/assets/5601608/367f7a2a-71db-4bf6-bdb3-fd4fda19d2d7" alt="mvp" width="300" height="100"/>
- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliDehbansiahkarbon&theme=algolia" alt="alidehbansiahkarbon" />
+ <img src="https://github.com/AliDehbansiahkarbon/AliDehbansiahkarbon/assets/5601608/367f7a2a-71db-4bf6-bdb3-fd4fda19d2d7" alt="mvp" width="800" height="250"/>
+ 
  
 </p>
 
@@ -48,14 +48,15 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
+<br>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliDehbansiahkarbon&theme=algolia" alt="alidehbansiahkarbon" />
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/adehbanr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/adehbanr" /></a>
 <a href="https://www.patreon.com/user/membership?u=88811712"> <img align="left" src="https://icon-library.com/images/patreon-icon-png/patreon-icon-png-29.jpg" height="50" width="210" alt="https://www.patreon.com/user/membership?u=88811712" /></a>
 </p><br><br>
+
 <br>
-
-
 <details>
   <summary>More Details</summary>
 
