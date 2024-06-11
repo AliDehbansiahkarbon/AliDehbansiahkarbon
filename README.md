@@ -1,30 +1,26 @@
-<h1 align="center">Hi 👋, I'm Ali Dehbansiahkarbon</h1>
+<h1 align="center">Hi 👋, I'm Ali Dehbansiahkarbon </h1> 
 <h3 align="center">A passionate Delphi/.Net/SQL Server developer</h3>
+<h3 align="center">Embarcadero MVP  <img src="https://github.com/AliDehbansiahkarbon/AliDehbansiahkarbon/assets/5601608/367f7a2a-71db-4bf6-bdb3-fd4fda19d2d7" alt="mvp" width="200" height="50"/></h3>
 <br>
-<p>
- <img src="https://github.com/AliDehbansiahkarbon/AliDehbansiahkarbon/assets/5601608/367f7a2a-71db-4bf6-bdb3-fd4fda19d2d7" alt="mvp" width="800" height="250"/>
- 
- 
-</p>
 
-- 🔭 My major projects are: [EasyDBMigrator](https://github.com/AliDehbansiahkarbon/EasyDBMigrator) <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/5601608/257011856-964264bf-ed9e-405f-9047-673ac1428ebc.png" alt="EasyDBMigrator" width="60" height="80"/>
- and    [ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) <img src="https://user-images.githubusercontent.com/5601608/225608017-be60c550-0413-49db-b4b6-3664da20e82f.png" alt="ChatGPTWizard" width="100" height="60"/>
+- ## 🔭 My major projects are:
+[ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) <img src="https://user-images.githubusercontent.com/5601608/225608017-be60c550-0413-49db-b4b6-3664da20e82f.png" alt="ChatGPTWizard" width="90" height="50"/>, [EasyDBMigrator](https://github.com/AliDehbansiahkarbon/EasyDBMigrator) <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/5601608/257011856-964264bf-ed9e-405f-9047-673ac1428ebc.png" alt="EasyDBMigrator" width="45" height="60"/>, and [OpenAPIClientWizard](https://github.com/AliDehbansiahkarbon/OpenAPIClientWizard) <img src="https://github.com/AliDehbansiahkarbon/OpenAPIClientWizard/assets/5601608/9eab0937-90e4-46ae-bce2-29a24c02bd9d" alt="OpenAPIClientWizard" width="60" height="60"/>
+
+<hr>
 
 - 👯 I’m looking to collaborate on [x-superobjectWithXML](https://github.com/AliDehbansiahkarbon/x-superobjectWithXML)
 
 - 🤝 I’m looking for help with [ChatGPTPluginForLazarus](https://github.com/AliDehbansiahkarbon/ChatGPTPluginForLazarus)
 
-- 🌱 I’m currently learning **.Net Core and Azure ecosystem**
+- 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AliDehbansiahkarbon](https://github.com/AliDehbansiahkarbon)
-
-- 📝 I regularly write English articles on [https://delphi-guru.blogspot.com](https://delphi-guru.blogspot.com)
 
 - 📝 I regularly write non-English articles on [https://delphiguru.blog.ir](https://delphiguru.blog.ir)
 
 - 💬 Ask me about **Delphi, Pascal, SQL Server**
 
-- 📫 How to reach me:  **adehban@gmail.com** or **https://bold.pro/my/ali-dehban-231203213414**
+- 📫 How to reach me:  **adehban@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,7 +33,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.embarcadero.com/products/delphi" target="_blank" rel="noreferrer"> <img src="https://github.com/AliDehbansiahkarbon/AliDehbansiahkarbon/assets/5601608/59a6c5b6-dfb5-48ae-afb7-e962ae8e4c93" alt="azure" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="40"/> </a> 
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
@@ -53,7 +49,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/adehbanr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/adehbanr" /></a>
-<a href="https://www.patreon.com/user/membership?u=88811712"> <img align="left" src="https://icon-library.com/images/patreon-icon-png/patreon-icon-png-29.jpg" height="50" width="210" alt="https://www.patreon.com/user/membership?u=88811712" /></a>
 </p><br><br>
 
 <br>
