@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Dehbansiahkarbon </h1> 
 <h3 align="center">A passionate Delphi/.Net/SQL Server developer</h3>
-<h3 align="center">Embarcadero MVP  <img src="https://github.com/AliDehbansiahkarbon/AliDehbansiahkarbon/assets/5601608/367f7a2a-71db-4bf6-bdb3-fd4fda19d2d7" alt="mvp" width="200" height="50"/></h3>
+<h3 align="center">Embarcadero MVP  <img src="https://github.com/AliDehbansiahkarbon/AliDehbansiahkarbon/assets/5601608/367f7a2a-71db-4bf6-bdb3-fd4fda19d2d7" alt="mvp" width="200" height="60"/></h3>
 <br>
 
 - ## 🔭 My major projects are:
