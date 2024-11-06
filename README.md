@@ -55,10 +55,9 @@
 <details>
   <summary>More Details</summary>
 
-  ## Star History
+## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=AliDehbansiahkarbon/ChatGPTWizard,AliDehbansiahkarbon/ChatGPTPluginForLazarus,AliDehbansiahkarbon/AzureStorageClientLibrary,AliDehbansiahkarbon/FuzzyMatch,AliDehbansiahkarbon/Advance-TaskDialog,AliDehbansiahkarbon/ai-toplist-for-Delphi,AliDehbansiahkarbon/EasyDBMigrator&type=Date)](https://star-history.com/#AliDehbansiahkarbon/ChatGPTWizard&AliDehbansiahkarbon/ChatGPTPluginForLazarus&AliDehbansiahkarbon/AzureStorageClientLibrary&AliDehbansiahkarbon/FuzzyMatch&AliDehbansiahkarbon/Advance-TaskDialog&AliDehbansiahkarbon/ai-toplist-for-Delphi&AliDehbansiahkarbon/EasyDBMigrator&Date)
-
+[![Star History Chart](https://api.star-history.com/svg?repos=AliDehbansiahkarbon/ChatGPTWizard,AliDehbansiahkarbon/EasyDBMigrator,AliDehbansiahkarbon/OpenAPIClientWizard,AliDehbansiahkarbon/GithubTrendings,AliDehbansiahkarbon/PascalPantheon,AliDehbansiahkarbon/AI-Toplist-For-Developers,AliDehbansiahkarbon/AzureBlobStorageClientLibrary,AliDehbansiahkarbon/Advance-TaskDialog,AliDehbansiahkarbon/InteractiveHtmlEditor,AliDehbansiahkarbon/SmartPointers&type=Date)](https://star-history.com/#AliDehbansiahkarbon/ChatGPTWizard&AliDehbansiahkarbon/EasyDBMigrator&AliDehbansiahkarbon/OpenAPIClientWizard&AliDehbansiahkarbon/GithubTrendings&AliDehbansiahkarbon/PascalPantheon&AliDehbansiahkarbon/AI-Toplist-For-Developers&AliDehbansiahkarbon/AzureBlobStorageClientLibrary&AliDehbansiahkarbon/Advance-TaskDialog&AliDehbansiahkarbon/InteractiveHtmlEditor&AliDehbansiahkarbon/SmartPointers&Date)
 
  ## Statistics
 <p align="center">
