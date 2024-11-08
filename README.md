@@ -52,7 +52,7 @@
 </p><br><br>
 
 <br>
-<details>
+<!--details>
   <summary>More Details</summary>
 
 ## Star History
@@ -76,4 +76,4 @@
     <img src="https://github-profile-trophy.vercel.app/?username=alidehbansiahkarbon&theme=algolia&row=2&column=3&hide_border=true" width="340" height="210"/>
   </a>
 </p> 
-</details>
+<!--/details>
