@@ -4,7 +4,10 @@
 <br>
 
 - ## 🔭 My major projects are:
-[ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) <img src="https://user-images.githubusercontent.com/5601608/225608017-be60c550-0413-49db-b4b6-3664da20e82f.png" alt="ChatGPTWizard" width="90" height="50"/>, [EasyDBMigrator](https://github.com/AliDehbansiahkarbon/EasyDBMigrator) <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/5601608/257011856-964264bf-ed9e-405f-9047-673ac1428ebc.png" alt="EasyDBMigrator" width="45" height="60"/>, and [OpenAPIClientWizard](https://github.com/AliDehbansiahkarbon/OpenAPIClientWizard) <img src="https://github.com/AliDehbansiahkarbon/OpenAPIClientWizard/assets/5601608/9eab0937-90e4-46ae-bce2-29a24c02bd9d" alt="OpenAPIClientWizard" width="60" height="60"/>
+[ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) <img src="https://user-images.githubusercontent.com/5601608/225608017-be60c550-0413-49db-b4b6-3664da20e82f.png" alt="ChatGPTWizard" width="100" height="60"/>, [EasyDBMigrator](https://github.com/AliDehbansiahkarbon/EasyDBMigrator) <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/5601608/257011856-964264bf-ed9e-405f-9047-673ac1428ebc.png" alt="EasyDBMigrator" width="50" height="65"/>, [OpenAPIClientWizard](https://github.com/AliDehbansiahkarbon/OpenAPIClientWizard) <img src="https://github.com/AliDehbansiahkarbon/OpenAPIClientWizard/assets/5601608/9eab0937-90e4-46ae-bce2-29a24c02bd9d" alt="OpenAPIClientWizard" width="60" height="60"/>, and [GithubTrendingsForDelphi](https://github.com/AliDehbansiahkarbon/GithubTrendings) <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="OpenAPIClientWizard" width="45" height="45"/>
+
+
+
 
 <hr>
 
