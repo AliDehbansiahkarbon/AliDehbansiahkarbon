@@ -19,11 +19,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AliDehbansiahkarbon](https://github.com/AliDehbansiahkarbon)
 
-- 📝 I regularly write non-English articles on [https://delphiguru.blog.ir](https://delphiguru.blog.ir)
+- 📝 I regularly write some articles on [https://delphiguru.blog.ir](https://delphi-guru.blogspot.com/)
 
 - 💬 Ask me about **Delphi, Pascal, SQL Server**
 
-- 📫 How to reach me:  **adehban@gmail.com**
+- 📫 How to reach me: **adehban@gmail.com** , https://t.me/AlDbn
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
