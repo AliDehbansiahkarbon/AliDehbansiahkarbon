@@ -1,82 +1,157 @@
-<h1 align="center">Hi 👋, I'm Ali Dehbansiahkarbon </h1> 
-<h3 align="center">A passionate Delphi/.Net/SQL Server developer</h3>
-<h3 align="center">Embarcadero MVP  <img src="https://github.com/AliDehbansiahkarbon/AliDehbansiahkarbon/assets/5601608/367f7a2a-71db-4bf6-bdb3-fd4fda19d2d7" alt="mvp" width="200" height="60"/></h3>
-<br>
+![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0EA5E9,45:7C3AED,100:EF4444&text=Ali%20Dehbansiahkarbon&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Delphi%20MVP%20%7C%20.NET%20%7C%20SQL%20Server%20%7C%20AI%20Developer%20Tools&descSize=18&descAlignY=58&animation=fadeIn)
 
-- ## 🔭 My major projects are:
-[ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) <img src="https://user-images.githubusercontent.com/5601608/225608017-be60c550-0413-49db-b4b6-3664da20e82f.png" alt="ChatGPTWizard" width="100" height="60"/>, [EasyDBMigrator](https://github.com/AliDehbansiahkarbon/EasyDBMigrator) <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/5601608/257011856-964264bf-ed9e-405f-9047-673ac1428ebc.png" alt="EasyDBMigrator" width="50" height="65"/>, [OpenAPIClientWizard](https://github.com/AliDehbansiahkarbon/OpenAPIClientWizard) <img src="https://github.com/AliDehbansiahkarbon/OpenAPIClientWizard/assets/5601608/9eab0937-90e4-46ae-bce2-29a24c02bd9d" alt="OpenAPIClientWizard" width="60" height="60"/>, and [GithubTrendingsForDelphi](https://github.com/AliDehbansiahkarbon/GithubTrendings) <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="OpenAPIClientWizard" width="45" height="45"/>
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+tools+for+Delphi+developers;I+turn+APIs%2C+databases%2C+and+AI+into+practical+software;I+love+clean+developer+experience+and+useful+automation)](https://git.io/typing-svg)
 
+<br />
 
+<a href="https://github.com/AliDehbansiahkarbon">
+  <img src="https://komarev.com/ghpvc/?username=AliDehbansiahkarbon&style=for-the-badge&color=0ea5e9" alt="Profile views" />
+</a>
+<a href="https://github.com/AliDehbansiahkarbon?tab=followers">
+  <img src="https://img.shields.io/github/followers/AliDehbansiahkarbon?style=for-the-badge&logo=github&color=7c3aed" alt="GitHub followers" />
+</a>
+<a href="https://www.embarcadero.com/mvp">
+  <img src="https://img.shields.io/badge/Embarcadero-MVP-EF4444?style=for-the-badge" alt="Embarcadero MVP" />
+</a>
+<a href="mailto:adehban@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-<hr>
+<br /><br />
 
-- 👯 I’m looking to collaborate on [x-superobjectWithXML](https://github.com/AliDehbansiahkarbon/x-superobjectWithXML)
+<img src="https://github.com/AliDehbansiahkarbon/AliDehbansiahkarbon/assets/5601608/367f7a2a-71db-4bf6-bdb3-fd4fda19d2d7" alt="Embarcadero MVP" width="230" />
 
-- 🤝 I’m looking for help with [ChatGPTPluginForLazarus](https://github.com/AliDehbansiahkarbon/ChatGPTPluginForLazarus)
+</div>
 
-- 🌱 I’m currently learning **AI**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/AliDehbansiahkarbon](https://github.com/AliDehbansiahkarbon)
+## About
 
-- 📝 I regularly write some articles on [https://delphiguru.blog.ir](https://delphi-guru.blogspot.com/)
+I am a Delphi, .NET, and SQL Server developer focused on practical developer tools, API integrations, database utilities, and AI-assisted workflows.
 
-- 💬 Ask me about **Delphi, Pascal, SQL Server**
+I like building software that removes friction: IDE plugins, code generators, database migration tools, reusable libraries, and experiments that make everyday development faster and more enjoyable.
 
-- 📫 How to reach me: **adehban@gmail.com** , https://t.me/AlDbn
+```pascal
+Ali := TDeveloper.Create;
+Ali.Focus := ['Delphi', '.NET', 'SQL Server', 'AI Tools', 'Developer Experience'];
+Ali.Mission := 'Build useful tools that help developers ship with confidence';
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ali-dehbansiahkarbon-a7276370/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-dehban-a7276370/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/3264735/ali-dehban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/3264735/ali-dehban" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ali.dehban.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ali.dehban.3/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@know-how-with-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@know-how-with-ali" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.embarcadero.com/products/delphi" target="_blank" rel="noreferrer"> <img src="https://github.com/AliDehbansiahkarbon/AliDehbansiahkarbon/assets/5601608/59a6c5b6-dfb5-48ae-afb7-e962ae8e4c93" alt="azure" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-</p>
+## Featured Work
 
-<br>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliDehbansiahkarbon&theme=algolia" alt="alidehbansiahkarbon" />
+<div align="center">
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/adehbanr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/adehbanr" /></a>
-</p><br><br>
+<a href="https://github.com/AliDehbansiahkarbon/ChatGPTWizard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliDehbansiahkarbon&repo=ChatGPTWizard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=F97316" alt="ChatGPTWizard" />
+</a>
+<a href="https://github.com/AliDehbansiahkarbon/EasyDBMigrator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliDehbansiahkarbon&repo=EasyDBMigrator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=F97316" alt="EasyDBMigrator" />
+</a>
 
-<br>
-<!--details>
-  <summary>More Details</summary>
+<a href="https://github.com/AliDehbansiahkarbon/OpenAPIClientWizard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliDehbansiahkarbon&repo=OpenAPIClientWizard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=F97316" alt="OpenAPIClientWizard" />
+</a>
+<a href="https://github.com/AliDehbansiahkarbon/GithubTrendings">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliDehbansiahkarbon&repo=GithubTrendings&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=F97316" alt="GithubTrendings" />
+</a>
 
-## Star History
+</div>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=AliDehbansiahkarbon/ChatGPTWizard,AliDehbansiahkarbon/EasyDBMigrator,AliDehbansiahkarbon/OpenAPIClientWizard,AliDehbansiahkarbon/GithubTrendings,AliDehbansiahkarbon/PascalPantheon,AliDehbansiahkarbon/AI-Toplist-For-Developers,AliDehbansiahkarbon/AzureBlobStorageClientLibrary,AliDehbansiahkarbon/Advance-TaskDialog,AliDehbansiahkarbon/InteractiveHtmlEditor,AliDehbansiahkarbon/SmartPointers&type=Date)](https://star-history.com/#AliDehbansiahkarbon/ChatGPTWizard&AliDehbansiahkarbon/EasyDBMigrator&AliDehbansiahkarbon/OpenAPIClientWizard&AliDehbansiahkarbon/GithubTrendings&AliDehbansiahkarbon/PascalPantheon&AliDehbansiahkarbon/AI-Toplist-For-Developers&AliDehbansiahkarbon/AzureBlobStorageClientLibrary&AliDehbansiahkarbon/Advance-TaskDialog&AliDehbansiahkarbon/InteractiveHtmlEditor&AliDehbansiahkarbon/SmartPointers&Date)
+| Project | What it does |
+|---|---|
+| [ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) | AI assistant workflow for Delphi developers. |
+| [EasyDBMigrator](https://github.com/AliDehbansiahkarbon/EasyDBMigrator) | Database migration tooling for controlled schema changes. |
+| [OpenAPIClientWizard](https://github.com/AliDehbansiahkarbon/OpenAPIClientWizard) | Client code generation from OpenAPI specifications. |
+| [GithubTrendingsForDelphi](https://github.com/AliDehbansiahkarbon/GithubTrendings) | GitHub trending discovery with a Delphi-oriented workflow. |
+| [x-superobjectWithXML](https://github.com/AliDehbansiahkarbon/x-superobjectWithXML) | Object handling for JSON and XML in Pascal projects. |
+| [ChatGPTPluginForLazarus](https://github.com/AliDehbansiahkarbon/ChatGPTPluginForLazarus) | ChatGPT plugin support for Lazarus IDE users. |
 
- ## Statistics
-<p align="center">
-  <a href="https://github.com/AliDehbansiahkarbon">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AliDehbansiahkarbon&theme=algolia" />
-  </a>
-  
-  <a href="https://github.com/AliDehbansiahkarbon">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AliDehbansiahkarbon&theme=algolia&utcOffset=8" />
-  </a>
-  
-  <a href="https://github.com/AliDehbansiahkarbon">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AliDehbansiahkarbon&theme=algolia&hide_border=true&card_width=315" height="210"/>
-  </a>
-  <a href="https://github.com/AliDehbansiahkarbon">
-    <img src="https://github-profile-trophy.vercel.app/?username=alidehbansiahkarbon&theme=algolia&row=2&column=3&hide_border=true" width="340" height="210"/>
-  </a>
-</p> 
-<!--/details>
+---
+
+## Toolbox
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi" />
+<img src="https://img.shields.io/badge/Object%20Pascal-1E3A8A?style=for-the-badge" alt="Object Pascal" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+</div>
+
+---
+
+## Current Focus
+
+- Building AI-assisted tools for Delphi and Pascal developers
+- Improving IDE workflows and developer productivity
+- Creating practical API, database, and automation utilities
+- Sharing Delphi knowledge through articles, plugins, and open-source projects
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliDehbansiahkarbon&theme=tokyonight" alt="GitHub profile summary" width="100%" />
+
+<br /><br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AliDehbansiahkarbon&theme=tokyonight" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AliDehbansiahkarbon&theme=tokyonight&utcOffset=3" alt="Productive time" />
+
+<br /><br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AliDehbansiahkarbon&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ali-dehbansiahkarbon-a7276370/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ali%20Dehbansiahkarbon-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://stackoverflow.com/users/3264735/ali-dehban">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-Ali%20Dehban-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+</a>
+<a href="https://www.youtube.com/@know-how-with-ali">
+  <img src="https://img.shields.io/badge/YouTube-Know%20How%20With%20Ali-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+<a href="https://delphi-guru.blogspot.com/">
+  <img src="https://img.shields.io/badge/Blog-Delphi%20Guru-F97316?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
+</a>
+<a href="https://t.me/AlDbn">
+  <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+
+</div>
+
+---
+
+## Support My Open Source Work
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/adehbanr">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" height="52" />
+</a>
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:EF4444,45:7C3AED,100:0EA5E9&section=footer)
