@@ -27,7 +27,7 @@
 
 ---
 
-## About
+## About 
 
 I am a Delphi, .NET, and SQL Server developer focused on practical developer tools, API integrations, database utilities, and AI-assisted workflows.
 
@@ -45,25 +45,25 @@ Ali.Mission := 'Build useful tools that help developers ship with confidence';
 
 <div align="center">
 
-<a href="https://github.com/AliDehbansiahkarbon/ChatGPTWizard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliDehbansiahkarbon&repo=ChatGPTWizard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=F97316" alt="ChatGPTWizard" />
+<a href="https://github.com/AliDehbansiahkarbon/FusionAI">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AliDehbansiahkarbon&repo=FusionAI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=F97316" alt="FusionAI" />
 </a>
 <a href="https://github.com/AliDehbansiahkarbon/EasyDBMigrator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliDehbansiahkarbon&repo=EasyDBMigrator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=F97316" alt="EasyDBMigrator" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AliDehbansiahkarbon&repo=EasyDBMigrator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=F97316" alt="EasyDBMigrator" />
 </a>
 
 <a href="https://github.com/AliDehbansiahkarbon/OpenAPIClientWizard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliDehbansiahkarbon&repo=OpenAPIClientWizard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=F97316" alt="OpenAPIClientWizard" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AliDehbansiahkarbon&repo=OpenAPIClientWizard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=F97316" alt="OpenAPIClientWizard" />
 </a>
 <a href="https://github.com/AliDehbansiahkarbon/GithubTrendings">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliDehbansiahkarbon&repo=GithubTrendings&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=F97316" alt="GithubTrendings" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AliDehbansiahkarbon&repo=GithubTrendings&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=F97316" alt="GithubTrendings" />
 </a>
 
 </div>
 
 | Project | What it does |
 |---|---|
-| [ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard) | AI assistant workflow for Delphi developers. |
+| [FusionAI](https://github.com/AliDehbansiahkarbon/FusionAI) | AI assistant workflow for Delphi and RAD Studio developers. |
 | [EasyDBMigrator](https://github.com/AliDehbansiahkarbon/EasyDBMigrator) | Database migration tooling for controlled schema changes. |
 | [OpenAPIClientWizard](https://github.com/AliDehbansiahkarbon/OpenAPIClientWizard) | Client code generation from OpenAPI specifications. |
 | [GithubTrendingsForDelphi](https://github.com/AliDehbansiahkarbon/GithubTrendings) | GitHub trending discovery with a Delphi-oriented workflow. |
